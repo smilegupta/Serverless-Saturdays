@@ -1,10 +1,7 @@
-## What is Serverless Saturdays
+## What is Serverless Saturdays 
 
 It is a free monthly webinar about "everything Serverless", an initiative from [AWS User Group Tirupati](https://www.meetup.com/aws-user-group-tirupati) and the [Serverless Group, Bangalore](https://www.meetup.com/Serverless-Bangalore)
 
-
-## Prerequisite
-   - A zeal to Learn about Serverless 
 
 ##  Serverless Saturdays PlayList
 
